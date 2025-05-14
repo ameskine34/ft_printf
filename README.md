@@ -4,13 +4,14 @@ This project is a simplified reimplementation of the standard C library function
 
 Once completed and validated, ft_printf will become a fundamental part of future C projects, replacing the standard printf where required.
 
- What I Learned
+~ What I Learned :
+
 How variadic functions work in C (using stdarg.h)
 
-Managing buffers and formatted output
+Managing buffers and formatted output.
 
-Handling different format specifiers
+Handling different format specifiers.
 
-Writing modular and reusable C code
+Writing modular and reusable C code.
 
-Debugging and testing complex logic
+Debugging and testing complex logic.
